@@ -1,0 +1,32 @@
+header {
+    background-color: #c4c4c4;
+    background-size: 50%;
+    width: 40%;
+    margin: 0% 30%;
+}
+
+h1 {
+    /* margin: 2% 0 -7% 40%; */
+    text-align: center;
+}
+
+h2 {
+    /* margin: 8% 0% 0% 45%; */
+    text-align: center;
+    font-size: 14px;
+}
+
+figure {
+    margin: 5% 0% 5% 35%;
+}
+
+img {
+    width: 40%;
+    height: 40%;
+    border-radius: 50%;
+}
+
+figcaption {
+    margin-top: 5%;
+    text-align: center;
+}
