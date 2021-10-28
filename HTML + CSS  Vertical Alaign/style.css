@@ -1,0 +1,28 @@
+p {
+    font: 1em arial, helvetica, sans-serif;
+    width: 780px;
+    font-size: 220%;
+}
+
+#a {
+    font: 1em arial, helvetica, sans-serif;
+    width: 780px;
+    font-size: 225%;
+}
+
+span {
+    font-size: 165%;
+}
+
+.b {
+    vertical-align: text-bottom;
+}
+
+#c{
+    color: green;
+    font-size: 65%;
+    vertical-align: text-top;
+}
+
+
+

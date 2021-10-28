@@ -1,0 +1,14 @@
+h2 { color: green; }
+  
+#p1 { font-family: Times, "Times New Roman", serif; }
+#p2 { font-family: Helvetica, Arial, sans-serif; }
+#p3 { font-family: serif; }
+#p4 { font-family: sans-serif; }
+#p5 { font-family: monospace; }
+#p6 { font-family: cursive; }
+#p7 { font-family: fantasy; }
+
+.s1 { font-style: italic; }
+.s2 { font-style: oblique; }
+.s3 { font-weight: bold; }
+.s4 { font-weight: 100; }
