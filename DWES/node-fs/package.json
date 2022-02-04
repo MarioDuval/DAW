@@ -1,0 +1,24 @@
+{
+  "name": "objects",
+  "version": "1.0.0",
+  "description": "En aquest exercici anem a re-construir una versió nova de Movies.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarioDuval/node-modules-mvc-v2.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/MarioDuval/node-modules-mvc-v2/issues"
+  },
+  "homepage": "https://github.com/MarioDuval/node-modules-mvc-v2#readme",
+  "dependencies": {
+    "req": "^0.1.4"
+  }
+}
